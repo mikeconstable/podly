@@ -1,8 +1,6 @@
-### Pup
-A boilerplate for products.
-
-[Read the Documentation](http://cleverbeagle.com/pup)
+### Podly
+A place for entrepreneurs.
 
 ---
 
-Need help and want to stay accountable building your product? [Check out Clever Beagle](http://cleverbeagle.com).
+Based on the super handy Pup.
